@@ -19,10 +19,10 @@ export const App = () => {
             <Link to="/Feedback">Feedback</Link>
           </li>
           <li className={css.MenuItem}>
-            <Link to="/ImageFinder">Image-Finder</Link>
+            <Link to="/Phonebook">Phonebook</Link>
           </li>
           <li className={css.MenuItem}>
-            <Link to="/Phonebook">Phonebook</Link>
+            <Link to="/ImageFinder">Image-Finder</Link>
           </li>
         </ul>
       </nav>
